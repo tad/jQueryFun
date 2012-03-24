@@ -79,3 +79,15 @@ td {
 	padding: 6px;
 }
 
+.zebra {
+	background-color: #dddddd;
+	color: #666666;
+}
+
+tr.zebraChosen {
+	background-color: #FF0000;
+}
+
+tr.zebraHover {
+	background-color: #FFFACD;
+}
